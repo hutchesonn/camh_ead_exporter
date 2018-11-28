@@ -3,14 +3,27 @@ module SingularizeExtents
 	def self.singularized_extents
 		{
 			"linear_feet"=>"linear foot",
-			"oversize folders"=>"oversize folder",
-			"oversize volumes"=>"oversize volume",
 			"volumes"=>"volume",
 			"folders"=>"folder",
 			"videotapes"=>"videotape",
 			"audiotapes"=>"audiotape",
 			"boxes"=>"box",
-			"phonograph records"=>"phonograph record"
+			"cassettes"=>"cassette",
+			"cubic feet"=>"cubic foot",
+			"discs"=>"disc",
+			"files"=>"file",
+			"gigabytes"=>"gigabyte",
+			"inches"=>"inch",
+			"items"=>"item",
+			"leaves"=>"leaf",
+			"maps"=>"map",
+			"megabytes"=>"megabyte",
+			"photographic_negatives"=>"photographic negative",
+			"photographic_prints"=>"photographic print",
+			"photographic_slides"=>"photographic slide",
+			"reels"=>"reel",
+			"sheets"=>"sheet",
+			"terabytes"=>"terabyte"
 		}
 	end
 
